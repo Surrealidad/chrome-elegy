@@ -18,12 +18,11 @@ Builds are published under [Releases](../../releases). Windows, 64-bit.
 
 The build is **unsigned**, so Windows SmartScreen will warn you the first time you run it.
 Click *More info*, then *Run anyway*. Nothing can be done about that short of buying a code
-signing certificate, which is hard to justify for a prototype.
+signing certificate, which is hard to justify for a game given away free.
 
 ## Status
 
-Playable prototype, in QA. Expect rough edges, missing feedback in places, and balance
-that has not settled.
+Version 1.0. Finished and playable end to end.
 
 ## Credits
 
